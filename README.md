@@ -1,5 +1,5 @@
 # Go-Sandbox
-Sandbox for Golang, testing purposes only.
+Golang sandbox for testing purposes only.
 
 ## Author
 Timothy.Lee a.k.a MarlboroMoo.
