@@ -48,7 +48,7 @@ func main() {
     john_ := &john
     fmt.Printf("In main -- john_: type=%T, &john_=%p, john_=%p, *john_=%v\n", john_, &john_, john_, *john_)
 
-    // function with revicer
+    // function with pointer
     fmt.Printf("In main >> fp(john_)\n")
     fp(john_)
     fmt.Printf("In main -- john: type=%T, &john=%p, john=%v\n", john, &john, john)
